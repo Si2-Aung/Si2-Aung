@@ -1,4 +1,4 @@
-# 🤗 Welcome:
+# 🤗 Welcome
 👨‍💻Studying Business Information Technology student at TU Darmstadt.<br>
 📚Currently learning SQL and data management<br>
 
